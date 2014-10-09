@@ -17,3 +17,4 @@ puts "status: " + msg.status
 puts msg.date_created
 puts msg.date_updated
 puts msg.date_sent
+puts "hello there"
